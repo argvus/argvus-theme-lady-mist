@@ -22,7 +22,7 @@ category = "dark"
 
 # The wallpaper the theme shows. The package installs it from
 # src/usr/share/backgrounds/argvus/; replace the placeholder with your own image.
-wallpaper = "/usr/share/backgrounds/argvus/landscape/dark/lady-mist-landscape-dark.jxl"
+wallpaper = "/usr/share/backgrounds/argvus/abstract/dark/lady-mist-abstract.jxl"
 
 [name_i18n]
 en-US = "Lady Mist"

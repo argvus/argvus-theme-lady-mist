@@ -10,7 +10,7 @@ ARGVUS Dark theme, `lady-mist`, with its Sticky and Float layouts.
 | Display name | Lady Mist |
 | Mode | `dark` |
 | Package | `argvus-theme-lady-mist` |
-| Wallpaper | `/usr/share/backgrounds/argvus/landscape/dark/lady-mist-landscape-dark.jxl` |
+| Wallpaper | `/usr/share/backgrounds/argvus/abstract/dark/lady-mist-abstract.jxl` |
 
 The theme is `src/usr/share/argvus/themes/lady-mist/theme.toml`: its name,
 category, wallpaper and palette. Every component of the desktop renders its
