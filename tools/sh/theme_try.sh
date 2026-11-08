@@ -64,7 +64,7 @@ install)
 remove)
 	[[ -d "$target" ]] || { printf 'The theme "%s" is not installed in %s\n' "$id" "$target"; exit 0; }
 	active="${XDG_CONFIG_HOME:-$HOME/.config}/argvus/data/.active-theme"
-	if [[ -f "$active" ]] && [[ "$(sed -n 1p "$active")" == "$id" || "$(sed -n 1p "$active")" == "$id-float" ]]; then
+	if [[ -f "$active" ]] && [[ "$(sed -n 1p "$active")" == "$id" || "$(sed -n 1p "$active")" == "$id-spaced" || "$(sed -n 1p "$active")" == "$id-float" ]]; then
 		die "the theme \"$id\" is active; apply another theme first (argvus theme apply argvus-dark)"
 	fi
 	rm -rf -- "$target"

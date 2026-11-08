@@ -3,14 +3,14 @@
 # This file is the whole theme. When the theme is applied, every component of
 # the desktop (taskbar, Control Panel, Hyprland, launcher, notifications, lock
 # screen, terminal, btop, yazi, Qt and GTK apps...) renders its own files from
-# the palette below, for the Sticky and the Float layouts alike.
+# the palette below, for the Sticky and the Spaced layouts alike.
 #
 # Check it at any time with `make check`, and try it on your desktop with
 # `make try`. See README.md for the whole workflow.
 schema = 2
 
 # The theme ID: lowercase letters, digits and single hyphens, equal to the name
-# of this directory, and never ending in "-float" (Float is a layout, not a
+# of this directory, and never ending in "-spaced" (Spaced is a layout, not a
 # theme). It becomes the package name: argvus-theme-<id>.
 id = "lady-mist"
 

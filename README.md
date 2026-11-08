@@ -1,6 +1,6 @@
 # Lady Mist theme for ARGVUS
 
-ARGVUS Dark theme, `lady-mist`, with its Sticky and Float layouts.
+ARGVUS Dark theme, `lady-mist`, with its Sticky and Spaced layouts.
 
 ## Theme identity
 
