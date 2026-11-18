@@ -2,7 +2,6 @@ ansi
 argb
 argvus
 btop
-cheatsheet
 cjxl
 cleanbuild
 codeowners
